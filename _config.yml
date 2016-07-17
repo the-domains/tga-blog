@@ -1,0 +1,14 @@
+layout_spectrum: 0.022377707296982408
+typography_spectrum: 0.5591636083554476
+color:
+  brandStrength: 0.6307579053100199
+  lightness: 0.6225493082311004
+  saturation: 0.629855937557295
+  rhythmicContrast: 0.4081512347329408
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: TGA Blog
